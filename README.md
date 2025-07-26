@@ -1,16 +1,51 @@
-# mood_tracker
+<h1>Mood Tracker</h1>
 
-A new Flutter project.
+ ### [YouTube Demonstration](https://youtu.be/ZB5vnhwJjvY)
 
-## Getting Started
+<h2>Description</h2>
+Track your moods, reflect daily, and view patterns over time — all in one clean and simple Flutter app.
+<br />
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<h2>Languages and Utilities Used</h2>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- <b>Dart & Flutter</b>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h2>Environments Used </h2>
+
+- <b>Windows 11</b>
+- <b>Visual studio code<b>
+
+<h2>Program walk-through:</h2>
+
+<p align="center">
+Splash screen: <br/>
+<img src="https://i.imgur.com/gDdFglI.png" height="500%" width="100%" />
+<br />
+<br />
+Notifications: <br/>
+<img src="https://i.imgur.com/DTUJ4U5.png" height="500%" width="100%" />
+<br />
+<br />
+Home screen: <br/>
+<img src="https://i.imgur.com/61O1lGZ.png" height="500%" width="100%" />
+<br />
+<br />
+<img src="https://i.imgur.com/1YCVUGf.png" height="500%" width="100%" />
+<br />
+<br />
+Calendar screen: <br/>
+<img src="https://i.imgur.com/BuukFHR.png" height="500%" width="100%" />
+<br />
+<br />
+<img src="https://i.imgur.com/VxpMhYT.png" height="500%" width="100%" />
+<br />
+<br />
+<img src="https://i.imgur.com/qCZd5m0.png" height="500%" width="100%" />
+<br />
+<br />
+Stats screen: <br/>
+<img src="https://i.imgur.com/176j6pd.png" height="500%" width="100%" />
+<br />
+<br />
+
